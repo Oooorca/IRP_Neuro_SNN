@@ -19,7 +19,7 @@ This project investigates how well surrogate gradient descent can learn from spi
 - Added a **baseline accuracy line** to compare models with a rate-based classifier.
 - Examined whether SNNs could still learn meaningful representations without precise spike timings.
 
-![Test Accuracy](Figures/Accuracy.png)
+![Test Accuracy](Figures/Accuracy_2.png)
 
 
 ## **Next Steps**
